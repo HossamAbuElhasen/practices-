@@ -1,0 +1,19 @@
+C:\Users\El Alamia\source\repos\program project\program project\bin\Debug\program project.exe.config
+C:\Users\El Alamia\source\repos\program project\program project\bin\Debug\program project.exe
+C:\Users\El Alamia\source\repos\program project\program project\bin\Debug\program project.pdb
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program project.csproj.AssemblyReference.cache
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form1.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Properties.Resources.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program project.csproj.GenerateResource.cache
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program project.csproj.CoreCompileInputs.cache
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program project.exe
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program project.pdb
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form2.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form3.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form4.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form5.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form6.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form7.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form8.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form9.resources
+C:\Users\El Alamia\source\repos\program project\program project\obj\Debug\program_project.Form10.resources
